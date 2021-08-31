@@ -1,0 +1,6 @@
+framework module Pods_CarSaleAgent {
+  umbrella header "Pods-CarSaleAgent-umbrella.h"
+
+  export *
+  module * { export * }
+}
